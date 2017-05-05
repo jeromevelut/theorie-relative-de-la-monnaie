@@ -5,7 +5,7 @@ Problème de la valeur de référence
 La valeur de référence est un ancien problème économique à la base de crises importantes,
 dues pour l'essentiel à l'incompréhension du problème des trois producteurs.
 
-La valeur de référence constituait à imposer aux acteurs une monnaie
+La valeur de référence consistait à imposer aux acteurs une monnaie
 dont la production était contrôlée par les producteurs d'un bien déterminé,
 par exemple les métaux rares, ce qui leur conférait un avantage évidemment considérable
 quant à l'information sur la quantité de monnaie disponible dans le futur,
